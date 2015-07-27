@@ -1,7 +1,7 @@
-#EXTINF:-1,ìN4X00 SERVER 25/7/15î,[COLOR red]ª ªIPTV´ ´[/COLOR]
+#EXTINF:-1,‚ÄúN4X00 SERVER 27/7/15‚Äù,[COLOR red]¬ª ¬ªIPTV¬´ ¬´[/COLOR]
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìSPORTSî,[COLOR red]ª ªSports´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúSPORTS‚Äù,[COLOR red]¬ª ¬ªSports¬´ ¬´[/COLOR]
 
 #EXTINF:0,SKY SPORTS 1
  http://usa.01.cdnstreams.in:8081/view/ch06/playlist.m3u8
@@ -38,16 +38,6 @@ http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-1-HD?aut
 http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-2-HD?auth=test+test
 #EXTINF:0,Sky Sports News HQ UK
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK?auth=test+test
-#EXTINF:0,Sky Sports 1 UK
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test
-#EXTINF:0,Sky Sports 2 UK
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
-#EXTINF:0,Sky Sports 3 UK
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
-#EXTINF:0,Sky Sports 4 UK
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
-#EXTINF:0,Sky Sports 5 UK
-http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
 #EXTINF:0,Sky Sports F1
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
 #EXTINF:0,BT Sport 1
@@ -121,6 +111,18 @@ http://185.56.30.127:8082/TV4010
 #EXTINF:0,BEIN SPORT 11 HD
 http://185.56.30.127:8082/TV4011
 
+#EXTINF:0,BEIN SPORT 12 HD
+http://185.56.30.127:8082/TV4012
+
+#EXTINF:0,BEIN SPORT 13 HD
+http://185.56.30.127:8082/TV4013
+
+#EXTINF:0,BEIN SPORT 14 HD
+http://185.56.30.127:8082/TV4014
+
+#EXTINF:0,BEIN SPORT 15 HD
+http://185.56.30.127:8082/TV4015
+
 #EXTINF:-1,Bahrain Sport 
 rtmp://alayam.netromedia.net/btv3/btv3 
 
@@ -129,6 +131,9 @@ http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnne
 
 #EXTINF:-1,Motorsport eng
 http://motorsport.hopto.org:8080/
+
+#EXTINF:-1,Motors TV
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
 
 #EXTINF:-1,Xtreme Impacts 
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
@@ -242,7 +247,7 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1 
 
 #EXTINF:-1,SPORT 5
-http://hls01-06.az.myvideo.az/Ö/lÖ/sport5/sport5/sport5.m3u8
+http://hls01-06.az.myvideo.az/‚Ä¶/l‚Ä¶/sport5/sport5/sport5.m3u8
 
 #EXTINF:-1,Sports Max
 http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
@@ -258,7 +263,50 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?v
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìSKYî,[COLOR blue]ª ªSKY´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúSKY‚Äù,[COLOR blue]¬ª ¬ªSKY¬´ ¬´[/COLOR]
+
+#EXTINF:-1 tvg-logo="BBCOne.png" tvg-id="BBC One UK" group-title="Britanski", BBC One
+http://82.135.224.134:80/udp/239.100.3.1:1234
+
+#EXTINF:-1 tvg-logo="BBCTwo.png" tvg-id="BBC Two UK", BBC Two
+http://82.135.224.134:80/udp/239.100.3.3:1234
+
+#EXTINF:-1 tvg-logo="BBCThree.png" tvg-id="BBC Three UK", BBC Three
+http://82.135.224.134:80/udp/239.100.3.4:1234
+
+#EXTINF:-1 tvg-logo="BBCFour.png" tvg-id="BBC Four UK" , BBC Four
+http://82.135.224.134:80/udp/239.100.3.5:1234
+
+#EXTINF:-1 tvg-logo="ITV1.png" tvg-id="ITV1 UK", ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+
+
+#EXTINF:-1,ITV 1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
+
+#EXTINF:-1,ITV 3
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
+
+#EXTINF:-1,ITV 4
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
+
+#EXTINF:-1,ITV Be
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
+
+#EXTINF:-1,Channel 4 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
+
+#EXTINF:-1,Channel 4 +1 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
+
+#EXTINF:-1,Channel 4 Link 2
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
+
+#EXTINF:-1,Channel 5
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
+
+#EXTINF:-1,Channel 5 +1
+http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
 
 #EXTINF:-1,Sky 1 UK
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK?auth=test+test
@@ -266,12 +314,6 @@ http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK?auth=test+t
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1?auth=test+test
 #EXTINF:-1,Sky 2 UK
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_2_UK?auth=test+test
-#EXTINF:0,PBS America
-http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/PBS_America?auth=test+test
-#EXTINF:-1,Pick UK
-http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK?auth=test+test
-#EXTINF:-1,Pick UK +1
-http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK_+1?auth=test+test
 #EXTINF:-1,More 4 Ireland
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/More_4_Ireland?auth=test+test
 #EXTINF:0,Channel 4 Ireland
@@ -282,6 +324,12 @@ http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Channel_4_Ireland_+1?
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/E4_Ireland_+1?auth=test+test
 #EXTINF:0,E4 Ireland
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/E4_Ireland?auth=test+test
+#EXTINF:0,PBS America
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/PBS_America?auth=test+test
+#EXTINF:-1,Pick UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK?auth=test+test
+#EXTINF:-1,Pick UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK_+1?auth=test+test
 #EXTINF:0,Sky Atlantic HD UK
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Atlantic_UK?auth=test+test
 #EXTINF:0,Sky Atlantic UK +1
@@ -332,49 +380,6 @@ http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?aut
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_Extra_UK?auth=test+test
 #EXTINF:0,Quest
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Quest?auth=test+test
-
-#EXTINF:-1 tvg-logo="BBCOne.png" tvg-id="BBC One UK" group-title="Britanski", BBC One
-http://82.135.224.134:80/udp/239.100.3.1:1234
-
-#EXTINF:-1 tvg-logo="BBCTwo.png" tvg-id="BBC Two UK", BBC Two
-http://82.135.224.134:80/udp/239.100.3.3:1234
-
-#EXTINF:-1 tvg-logo="BBCThree.png" tvg-id="BBC Three UK", BBC Three
-http://82.135.224.134:80/udp/239.100.3.4:1234
-
-#EXTINF:-1 tvg-logo="BBCFour.png" tvg-id="BBC Four UK" , BBC Four
-http://82.135.224.134:80/udp/239.100.3.5:1234
-
-#EXTINF:-1 tvg-logo="ITV1.png" tvg-id="ITV1 UK", ITV 1
-http://82.135.224.134:80/udp/239.100.3.6:1234
-
-
-#EXTINF:-1,ITV 1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=2
-
-#EXTINF:-1,ITV 3
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=8
-
-#EXTINF:-1,ITV 4
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=9
-
-#EXTINF:-1,ITV Be
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=35
-
-#EXTINF:-1,Channel 4 +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=50
-
-#EXTINF:-1,Channel 4 +1 Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=54
-
-#EXTINF:-1,Channel 4 Link 2
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=44
-
-#EXTINF:-1,Channel 5
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=4
-
-#EXTINF:-1,Channel 5 +1
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=55
 
 #EXTINF:-1  tvg-logo="UK/London_Live.png", London Live By Soloman
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8?b?b*t$
@@ -457,9 +462,6 @@ http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
 #EXTINF:-1,More 4
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=15
 
-#EXTINF:-1,Motors TV
-http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=31
-
 #EXTINF:-1,MovieMix
 http://95.172.231.17/flashstream/stream.flv?Preset=7&aspect=16A9&ffPreset=ultrafast&maxwidth=&maxheight=&chid=30
 
@@ -500,7 +502,7 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìMOVIESî,[COLOR blue]ª ªMOVIES´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúMOVIES‚Äù,[COLOR blue]¬ª ¬ªMOVIES¬´ ¬´[/COLOR]
 
 #EXTINF:0,TCM UK
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/TCM_UK?auth=test+test
@@ -567,121 +569,250 @@ rtmp://mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16x9-SDq
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìUSAî,[COLOR white]ª ªUSA´ ´[/COLOR]
-
-#EXTINF:0,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-
-#EXTINF:0,TLC
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-
-#EXTINF:0,AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
- 
-#EXTINF:0,History Channel
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-
-#EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
-
-#EXTINF:0,Disney Channel HD
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-
-#EXTINF:0,ABC 22 HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-
-#EXTINF:0,tbs
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúUSA‚Äù,[COLOR white]¬ª ¬ªUSA¬´ ¬´[/COLOR]
 
 #EXTINF:0,ESPN HD
 http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-
-#EXTINF:0,ESPN 
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-
-#EXTINF:0,ESPN 2 
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
-
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
-
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-
+#EXTINF:0,abc hd
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,CBS HD
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
 #EXTINF:0,Nat GEO HD
 http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,24/7Comedy Movies
+http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
+#EXTINF:0,24/7HD Movies 1
+http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
+#EXTINF:0,ABC 22HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,ABC Family
+http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
+#EXTINF:0,AMC
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,beIN Sport (Spanish)
+http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
+#EXTINF:0,beIN Sport (USA)
+http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
+#EXTINF:0,BET
+http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
+#EXTINF:0,Bravo
+http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Cartoon Network
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:0,CBS HD (WHIO 7)
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,CNN USA HD
+http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+#EXTINF:0,CNN USA SD
+http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Crime & Investigation
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ESPN HD
+http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:0,ESPN SD
+http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
+#EXTINF:0,ESPN 2HD
+http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
+#EXTINF:0,ESPN 2SD
+http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0,FOX 45HD
+http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
+#EXTINF:0,FOX 45SD
+http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
+#EXTINF:0,FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0,FOX News SD
+http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
+#EXTINF:0,Golf Channel HD
+http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
+#EXTINF:0,Hallmark HD
+http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HBO SD
+http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel (Europe)
+http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
+#EXTINF:0,History Channel (USA)
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,I.D.
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
 #EXTINF:0,Lifetime HD
 http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-
-#EXTINF:0,Spike
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-
-#EXTINF:0,I.D. Investigation Discovery
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
 #EXTINF:0,MTV
 http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,Nat GEO SD
+http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,NBC SD
+http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
+#EXTINF:0,NBC Sports Network HD
+http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,NBC Sports Network SD
+http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,Nickelodeon HD
+http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
+#EXTINF:0,Nickelodeon SD
+http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
+#EXTINF:0,OWN
+http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
+#EXTINF:0,Oxygen
+http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0,Science
+http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,Showtime SD
+http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
+#EXTINF:0,Spike
+http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
+#EXTINF:0,SyFy HD
+http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,tbs
+http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
+#EXTINF:0,TLC
+http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,TNT SD
+http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
+#EXTINF:0,Travel Channel HD
+http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+#EXTINF:0,Travel Channel SD
+http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
 #EXTINF:0,TruTV
 http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-
 #EXTINF:0,TV Land
 http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-
-#EXTINF:-1, HSN 
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:420p500kB31?b?b*t$ playpath=mp4:420p500kB31
- 
-#EXTINF:-1, HSN 
-rtmp://hsn.mpl.miisolutions.net:1935/hsn-live01/_definst_/mp4:468p500kB31?b?b*t$ playpath=mp4:468p500kB31
-
 #EXTINF:0,Univision
 http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-
 #EXTINF:0,USA Network
 http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,CBS HD 
+http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
+#EXTINF:0,Food Network
+http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,HGTV
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+#EXTINF:0,History Channel
+http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
+#EXTINF:0,MSNBC SD
+http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
+#EXTINF:0,MTV
+http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,WAENER_TV-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/439.ts
+#EXTINF:0,SLICE_US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/452.ts
+#EXTINF:0,PBS-CA
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/453.ts
+#EXTINF:0,NICK-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/456.ts
+#EXTINF:0,NBC-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/483.ts
+#EXTINF:0,NAT_GEO-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/457.ts
+#EXTINF:0,DOCUMENTARY-CA
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/468.ts
+#EXTINF:0,DISNEY_JR-EN-CA
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/469.ts
+#EXTINF:0,DISCOVERY_SCIENCE-CA
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/470.ts
+#EXTINF:0,CBS-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/475.ts
+#EXTINF:0,CBC_CA_(MTL)
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/476.ts
+#EXTINF:0,CARTOON_NETWORK-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/477.ts
+#EXTINF:0,BET
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/478.ts
+#EXTINF:0,ATN_CBN-CA
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/479.ts
+#EXTINF:0,ANIMAL_PLANET_HD-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/480.ts
+#EXTINF:0,AMC-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/481.ts
+#EXTINF:0,ABC-US
+http://iptvmoroccopes.no-ip.org/live/wssiptvdotcom/Uysi8iOity965sSwqes/482.ts
+#EXTINF:0, CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0, RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8
+#EXTINF:-1, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:-1, CARTOON NETWORK
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="News‚Äù,BLOOMBERG (USA)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+#EXTINF:-1 tvg-logo="i24news"group-title="news", i24 News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8?Vd?u#bt!25
+#EXTINF:0,BeIN Sport Premier HD
+http://streamindo.ddns.net/jhos/beib3_5/streamindo/playlist.m3u8
+#EXTINF:0,Discovery Channel HD
+http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+#EXTINF:0,Disney Channel HD
+http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
+#EXTINF:0,ABC 22 HD
+http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:0,HBO HD
+http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
+#EXTINF:0,Showtime HD
+http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
+#EXTINF:0,Nat GEO HD
+http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
+#EXTINF:0,NBC HD
+http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
+#EXTINF:0,FOX News HD
+http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0,TNT HD
+http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
+#EXTINF:0,Travel Channel HD
+http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
+#EXTINF:0,USA Network
+http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+#EXTINF:0,Lifetime HD
+http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
+#EXTINF:0,SyFy SD
+http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+#EXTINF:0,I.D. Investigation Discovery
+http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
+#EXTINF:0,OWN HD
+http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
 
 #EXTINF:0,BET
 http://ift.tt/1eQtFaV
@@ -793,7 +924,7 @@ http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìNEWSî,[COLOR red]ª ªNEWS´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúNEWS‚Äù,[COLOR red]¬ª ¬ªNEWS¬´ ¬´[/COLOR]
 
 
 #EXTINF:0,Sky News UK
@@ -804,7 +935,7 @@ http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_News_Ireland?aut
 #EXTINF:-1,BBC News
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
  
-#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="Newsî,BLOOMBERG (USA)
+#EXTINF:-1 tvg-logo="Bloomberg.png" group-title="News‚Äù,BLOOMBERG (USA)
 http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
 
 #EXTINF:-1,SKY TG24 ita
@@ -897,7 +1028,7 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìMUSICî,[COLOR yellow]ª ªMUSIC´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúMUSIC‚Äù,[COLOR yellow]¬ª ¬ªMUSIC¬´ ¬´[/COLOR]
 
 #EXTINF:0,MTV UK
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/MTV-UK?auth=test+test
@@ -1019,7 +1150,7 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìKIDSî,[COLOR pink]ª ªKIDS´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúKIDS‚Äù,[COLOR pink]¬ª ¬ªKIDS¬´ ¬´[/COLOR]
 
 #EXTINF:-1 tvg-logo="Boomerang.png" group-title="UK Live TV", Boomerang
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_BOOMERANG/variant.m3u8
@@ -1046,7 +1177,7 @@ http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Disney_Junior_UK_+1?a
 
 
 
-#EXTINF:-1 tvg-id=""tv-logo=ìî group-title=ìADULTî,[COLOR green]ª ªADULT´ ´[/COLOR]
+#EXTINF:-1 tvg-id=""tv-logo=‚Äú‚Äù group-title=‚ÄúADULT‚Äù,[COLOR green]¬ª ¬ªADULT¬´ ¬´[/COLOR]
 
 #EXTINF:-1,Desire TV
 rtmp://edge2.everyon.tv/etv2sb/phd499 swfUrl=https://akbalthom-code.googlecode.com/svn/trunk/player.swf pageUrl=http://livetv4watch.blogspot.com/2015/02/desire-tv-18-live-online-streaming.html#.VQY56I7F_XU
