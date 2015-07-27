@@ -63,6 +63,15 @@ http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Setanta-Ireland?auth=
 #EXTINF:0,Premier Sports
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Premier-Sports?auth=test+test
 
+#EXTINF:0,Sky sport News [COLOR blue]HD[/COLOR]
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NDg6NDYgUE0maGFzaF92YWx1ZT0wUFh5MGU3Z3VvQmRZQnVNV2tvbHdBPT0mdmFsaWRtaW51dGVzPTM=/skynews
+#EXTINF:0,Sky sport F1 [COLOR blue]HD[/COLOR]
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDc6MTE6MDAgUE0maGFzaF92YWx1ZT0vUlRLREFnZXF4ZE1ONnFOLytUOFRRPT0mdmFsaWRtaW51dGVzPTM=/skyf1
+#EXTINF:0,BT Sports1 [COLOR blue]HD[/COLOR]
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NTM6NTEgUE0maGFzaF92YWx1ZT0zRm43N0ZNZVVWMFpBU2lialVCK05nPT0mdmFsaWRtaW51dGVzPTM=/btsports1
+#EXTINF:0,BT Sports 2 [COLOR blue]HD[/COLOR]
+rtmp://37.187.167.166:2195/live?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDE1IDk6NTM6NTEgUE0maGFzaF92YWx1ZT0zRm43N0ZNZVVWMFpBU2lialVCK05nPT0mdmFsaWRtaW51dGVzPTM=/btsports2
+
 #EXTINF:0,NBC GOLF
 http://usa.01.cdnstreams.in:8081/view/ch10/playlist.m3u8
 
@@ -265,6 +274,13 @@ http://hlsstr02.svc.iptv.rt.ru/hls/CH_C06_VIASATSPORTHD/bw3000000/variant.m3u8?v
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“SKY”,[COLOR blue]» »SKY« «[/COLOR]
 
+#EXTINF:-1,BBC1 [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC2 [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8
+#EXTINF:-1,BBC3 [COLOR blue]HD[/COLOR]
+http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8
+
 #EXTINF:-1 tvg-logo="BBCOne.png" tvg-id="BBC One UK" group-title="Britanski", BBC One
 http://82.135.224.134:80/udp/239.100.3.1:1234
 
@@ -314,6 +330,10 @@ http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK?auth=test+t
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1?auth=test+test
 #EXTINF:-1,Sky 2 UK
 http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_2_UK?auth=test+test
+#EXTINF:-1,E4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:-1,Film4 [COLOR blue]HD[/COLOR]
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
 #EXTINF:-1,More 4 Ireland
 http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/More_4_Ireland?auth=test+test
 #EXTINF:0,Channel 4 Ireland
@@ -1149,6 +1169,14 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 #EXTINF:-1, tvg-logo="mtvHits.jpg" tvg-id="mtvHits", MTV Hits
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
 
+#EXTINF:-1,HEART
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,CAPITAL
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+
 
 #EXTINF:-1 tvg-id=""tv-logo=“” group-title=“KIDS”,[COLOR pink]» »KIDS« «[/COLOR]
 
@@ -1300,69 +1328,96 @@ http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/8207
 http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
 #EXTINF:0,XXX-VOD European 25
 http://www.pornoid.com/get_file/1/97d87ea457fd5fe1344898ca9f39e656/11000/11231/11231.mp4
-#EXTINF:-1,XXXVOD3D-1+18 3D
-http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
-#EXTINF:-1,XXXVOD3D-2+18 3D
-http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
-#EXTINF:-1,XXXVOD3D-3+18 3D
-http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
-#EXTINF:-1,XXXVOD3D-4+18 3D
-http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
-#EXTINF:-1,XXXVOD3D-5+18 3D
-http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
-#EXTINF:-1,XXXVOD3D-6+18 3D
-http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
-#EXTINF:-1,XXXVOD3D-7+18 3D
-http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
-#EXTINF:-1,XXXVOD3D-8+18 3D
-http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
-#EXTINF:-1,XXXVOD3D-9+18 3D
-http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
-#EXTINF:-1,XXXVOD3D-10+18 3D
-http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
-#EXTINF:-1,XXXVOD3D-11+18 3D
-http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
-#EXTINF:-1,XXXVOD3D-12+18 3D
-http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
-#EXTINF:-1,XXXVOD3D-13+18 3D
-http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
-#EXTINF:-1,XXXVOD3D-14+18 3D
-http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
-#EXTINF:-1,XXXVOD3D-15+18 3D
-http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
-#EXTINF:-1,XXXVOD3D-16+18 3D
-http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
-#EXTINF:-1,XXXVOD3D-17+18 3D
-http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
-#EXTINF:-1,XXXVOD3D-18+18 3D
-http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
-#EXTINF:-1,XXXVOD3D-19+18 3D
-http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
-#EXTINF:-1,XXXVOD3D-20+18 3D
-http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
-#EXTINF:-1,XXXVOD3D-21+18 3D
-http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
-#EXTINF:-1,XXXVOD3D-22+18 3D
-http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
-#EXTINF:-1,XXXVOD3D-23+18 3D
-http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
-#EXTINF:-1,XXXVOD3D-24+18 3D
-http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
-#EXTINF:-1,XXXVOD3D-25+18 3D
-http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
-#EXTINF:-1,XXXVOD3D-26+18 3D
-http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
-#EXTINF:-1,XXXVOD3D-+18 3D
-http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
-#EXTINF:-1,XXXVOD3D-27+18 3D
-http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
-#EXTINF:-1,XXXVOD3D-28+18 3D
-http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
-#EXTINF:-1,XXXVOD3D-29+18 3D
-http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
-#EXTINF:-1,XXXVOD3D-30+18 3D
-http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
-#EXTINF:-1,XXXVOD3D-31+18 3D
-http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
-#EXTINF:-1,XXXVOD3D-32+18 3D
-http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
+
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“VOD”,[COLOR green]» »VOD« «[/COLOR]
+
+
+#EXTINF:-1, Dark Summer 2015 Bluray 720
+http://bit.do/7vou
+#EXTINF:-1, Dying of the light 2014 HD
+http://bit.do/7vjS
+#EXTINF:-1, accidental love 2015 HD
+http://bit.do/7vjV
+#EXTINF:-1, snow in paradise 2014 HD
+http://bit.do/7vj5
+#EXTINF:-1, non stop 2014 HD
+http://bit.do/7vj9
+#EXTINF:-1, Fast and Furious 7 2015 HD
+http://bit.do/7vkm
+#EXTINF:-1, Paddington 2014 HD
+http://bit.do/7vkq
+#EXTINF:-1, The lazarus effect 2015 HD
+http://bit.do/7vks
+#EXTINF:-1, Residue 2015 HD
+http://bit.do/7vku
+#EXTINF:-1, Enter the dangerous mind 2015 HD
+http://bit.do/7vkx
+#EXTINF:-1, Pain & gain 2013 HD
+http://bit.do/7vky
+#EXTINF:-1, Superfast 2015 HD
+http://bit.do/7vkB
+#EXTINF:-1, The heat 2013 HD
+http://bit.do/7vkC
+#EXTINF:-1, Bad asses on the bayou 2014 HD
+http://bit.do/7vkF
+#EXTINF:-1, Bad ass 2 bad asses 2014 HD
+http://bit.do/7vkG
+#EXTINF:-1, Exeter 2015 HD
+http://bit.do/7vkH
+#EXTINF:-1, Barely lethal 2015 HD
+http://bit.do/7vkK
+#EXTINF:-1, The second best exotic marigold hotel 2015 HD
+http://bit.do/7vkM
+#EXTINF:-1, Age of kill 2015 HD
+http://bit.do/7vkZ
+#EXTINF:-1, Minions 2015 TS
+http://bit.do/7vma
+#EXTINF:-1, Champs (documentry, sport) 2015 HD
+http://bit.do/7vme
+#EXTINF:-1, Jack Reacher 2012 HD
+http://bit.do/7vmi
+#EXTINF:-1, Avengers Grimm 2015 HD
+http://bit.do/7vmt
+#EXTINF:-1, Looney tunes rabbit run 2015
+http://bit.do/7vmA
+#EXTINF:-1, Inside out 2015 TS
+http://bit.do/7vmG
+#EXTINF:-1, Scooby doo and kiss rock and roll mystery 2015 HD
+http://bit.do/7vmR
+#EXTINF:-1, Pixies 2015
+http://bit.do/7vmV
+#EXTINF:-1, The jokesters 2015
+http://bit.do/7vmX
+#EXTINF:-1, Lila and eve 2015 HD
+http://bit.do/7vmY
+#EXTINF:-1, Awaken 2015 HD
+http://bit.do/7vmZ
+#EXTINF:-1, Joe dirt 2 beautiful loser 2015 HD
+http://bit.do/7vm4
+#EXTINF:-1, Son of a gun 2014 HD
+http://bit.do/7vm5
+#EXTINF:-1, nightcrawler 2014 HD
+http://bit.do/7vm8
+#EXTINF:-1, Echoes of war 2015 HD
+http://bit.do/7vna
+#EXTINF:-1, The prince 2014 HD
+http://bit.do/7vnc
+#EXTINF:-1, Bonnie Clyde Justified 2013 HD
+http://bit.do/7vnk
+#EXTINF:-1, Blackhat 2015 HD
+http://bit.do/7vnr
+#EXTINF:-1, Ant man CAM Q 2015
+http://bit.do/7vnw
+#EXTINF:-1, Spy 2015 HD
+http://bit.do/7vnz
+#EXTINF:-1, Pitch Perfect 2 2015 HD
+http://bit.do/7vnE
+#EXTINF:-1, Max 2015
+http://bit.do/7vnL
+#EXTINF:-1, Need for speed 2014 HD
+http://bit.do/7vnQ
+#EXTINF:-1, Insurgent 2015 HD
+http://bit.do/7vnS
+#EXTINF:-1, Street fighter assassins fist 2014 HD
+http://bit.do/7vnY
+
